@@ -130,4 +130,5 @@ dmypy.json
 
 # Cascade Tuholske 
 /LAProject
-
+.DS_Store
+*/.DS_Store
