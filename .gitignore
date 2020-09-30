@@ -3,8 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
+
 # C extensions
 *.so
+
+# Testing stuff:
+holoviews-examples
+geoviews-examples
+poly_editor*
+Holoviews*
 
 # Distribution / packaging
 .Python
